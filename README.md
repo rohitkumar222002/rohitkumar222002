@@ -51,4 +51,12 @@
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" />
   </a>
 </p>
+<h3 align="left">🚀 My Live Projects:</h3>
+<ul>
+  <li>🔹 <a href="https://thedigitalcoders.com/" target="_blank">The Digital Coders</a> - Web Development Agency</li>
+  <li>🔹 <a href="https://offerlooto.com/" target="_blank">Offer Looto</a> - Deals & Offers Platform</li>
+  <li>🔹 <a href="https://anandgold.co.in/" target="_blank">Anand Gold</a> - Gold Trading Website</li>
+  <li>🔹 <a href="https://goodvibemarketing.in/" target="_blank">Good Vibe Marketing</a> - Digital Marketing Agency</li>
+  <li>🔹 And many more live projects... 🚀</li>
+</ul>
 

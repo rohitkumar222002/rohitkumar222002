@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Next.js + Prisma projects**
 - 🌱 I’m learning **Full Stack Next.js (React, TypeScript, API Routes)**
 - 💬 Ask me about **Laravel, PHP, MySQL, Next.js**
-- 📫 How to reach me **rohitkumar@example.com**
+- 📫 How to reach me **rohitdigitalcoder@gmail.com**
 - ⚡ Fun fact: **I love coding late at night!** 🌙
 
 ---

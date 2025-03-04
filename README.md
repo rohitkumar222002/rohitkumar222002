@@ -39,7 +39,6 @@
 
 
 ---
-
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/rohitkumar" target="blank">
@@ -47,5 +46,8 @@
   </a>
   <a href="https://github.com/rohitkumar222002" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/rohitkumar__22" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" width="40" />
   </a>
 </p>

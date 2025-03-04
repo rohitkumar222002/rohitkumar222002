@@ -3,9 +3,7 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" alt="Coding GIF">
-    </td>
+    
     <td>
       <ul>
         <li>🔭 I’m currently working on <b>Next.js + Prisma projects</b></li>
@@ -14,6 +12,9 @@
         <li>📫 How to reach me <b>rohitdigitalcoder@gmail.com</b></li>
         <li>⚡ Fun fact: <b>I love coding late at night! 🌙</b></li>
       </ul>
+    </td>
+    <td>
+      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" alt="Coding GIF">
     </td>
   </tr>
 </table>

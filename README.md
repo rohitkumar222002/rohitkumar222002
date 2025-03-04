@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+ <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer (Laravel + Next.js)</h3>
 
 <table>

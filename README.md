@@ -1,17 +1,22 @@
-<h1 align="center" style="color: #ff5733;">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center" style="color: #33ff57;">A passionate Full Stack Developer (Laravel + Next.js)</h3>
+<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+<h3 align="center">A passionate Full Stack Developer (Laravel + Next.js)</h3>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" alt="Coding GIF">
-</p>
-
----
-
-- 🔭 I’m currently working on **Next.js + Prisma projects**
-- 🌱 I’m learning **Full Stack Next.js (React, TypeScript, API Routes)**
-- 💬 Ask me about **Laravel, PHP, MySQL, Next.js**
-- 📫 How to reach me **rohitdigitalcoder@gmail.com**
-- ⚡ Fun fact: **I love coding late at night!** 🌙
+<table>
+  <tr>
+    <td>
+      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" alt="Coding GIF">
+    </td>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <b>Next.js + Prisma projects</b></li>
+        <li>🌱 I’m learning <b>Full Stack Next.js (React, TypeScript, API Routes)</b></li>
+        <li>💬 Ask me about <b>Laravel, PHP, MySQL, Next.js</b></li>
+        <li>📫 How to reach me <b>rohitdigitalcoder@gmail.com</b></li>
+        <li>⚡ Fun fact: <b>I love coding late at night! 🌙</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 

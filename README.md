@@ -6,7 +6,7 @@
     <td>
       <ul>
         <li>🔭 I’m currently working on <b>Next.js + Prisma projects</b></li>
-        <li>🌱 I’m learning <b>Full Stack Next.js (React, TypeScript, API Routes)</b></li>
+        <li>🌱 I’m learning <b>Full Stack Next.js (React,  API Routes)</b></li>
         <li>💬 Ask me about <b>Laravel, PHP, MySQL, Next.js</b></li>
         <li>📫 How to reach me <b>rohitdigitalcoder@gmail.com</b></li>
         <li>⚡ Fun fact: <b>I love coding late at night! 🌙</b></li>

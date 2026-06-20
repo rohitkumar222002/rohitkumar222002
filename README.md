@@ -42,17 +42,22 @@ const rohit = {
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
+      <a href="https://rankmygmb.com/">
+        <img src="https://img.shields.io/badge/Rank%20My%20GMB-GMB%20Ranking%20Tool-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      </a>
+    </td>
+    <td width="25%" align="center">
       <a href="https://thedigitalcoders.com/">
         <img src="https://img.shields.io/badge/The%20Digital%20Coders-Web%20Dev%20Agency-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
       </a>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="https://offerlooto.com/">
         <img src="https://img.shields.io/badge/Offer%20Looto-Deals%20%26%20Offers-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
       </a>
     </td>
-    <td width="33%" align="center">
+    <td width="25%" align="center">
       <a href="https://anandgold.co.in/">
         <img src="https://img.shields.io/badge/Anand%20Gold-Oil%20Website-FFB100?style=for-the-badge&logo=googlechrome&logoColor=white"/>
       </a>

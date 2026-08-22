@@ -20,11 +20,11 @@ Hi, I'm Rohit.
 
 I'm a Full Stack Developer working mainly with **Laravel, PHP, MySQL, React and Next.js**.
 
-Most of my work is around building web applications, SaaS products, admin panels, APIs and websites for real clients.
+I work on multiple client projects and web products, mostly building web applications, SaaS platforms, admin panels, APIs and business websites.
 
 I started mainly with PHP and Laravel and have been working more with **Next.js, React, Prisma and PostgreSQL** as well.
 
-I also run projects through **The Digital Coders**, where I work on web development and client projects.
+I also work through **The Digital Coders**, where I handle development work for different clients and businesses.
 
 ---
 
@@ -54,49 +54,6 @@ I also run projects through **The Digital Coders**, where I work on web developm
 - GitHub
 - VS Code
 - Docker
-
----
-
-## Projects
-
-### RankMyGMB
-
-A platform for managing and improving Google Business Profiles.
-
-Built around things like:
-
-- Google Business Profile management
-- Business profile audits
-- Review management
-- Automated posting
-- Local rank tracking
-- Keyword research
-
-[Visit RankMyGMB](https://rankmygmb.com/)
-
----
-
-### The Digital Coders
-
-My web development agency where I work on websites, web applications and custom software projects.
-
-[Visit The Digital Coders](https://thedigitalcoders.com/)
-
----
-
-### Offer Looto
-
-Deals and offers website built for publishing and managing online offers.
-
-[Visit Offer Looto](https://offerlooto.com/)
-
----
-
-### Anand Gold
-
-Website project for Anand Gold.
-
-[Visit Anand Gold](https://anandgold.co.in/)
 
 ---
 

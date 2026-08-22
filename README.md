@@ -6,7 +6,6 @@
 
 Laravel · PHP · MySQL · Next.js · React
 
-[![Website](https://img.shields.io/badge/Website-The%20Digital%20Coders-111111?style=flat-square)](https://thedigitalcoders.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-3042852b3/)
 [![GitHub](https://img.shields.io/badge/GitHub-rohitkumar222002-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitkumar222002)
 
